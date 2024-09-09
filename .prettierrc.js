@@ -1,7 +1,7 @@
 export default {
   arrowParens: "avoid",
   bracketSameLine: true,
-  bracketSpacing: false,
+  bracketSpacing: true,
   singleQuote: false,
   trailingComma: "all",
   tabWidth: 2,
